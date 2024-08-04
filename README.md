@@ -7,7 +7,7 @@ Contains a list of most asked interview questions
 
 https://www.geeksforgeeks.org/qualcomm-interview-experience-off-campus-2021/
 
-Problems
+### Problems
 
 1. https://leetcode.com/problems/single-number/
 2. https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/
@@ -77,37 +77,7 @@ Your task is to find the minimum number of fountains that have to be activated s
 55. Subsequence matching
 
 
-MISC
-
-1. Tell me the difference between stack and heap memory.
-2. Describe a few deadlock avoidance schemes.
-3. Implement the malloc() and free() operations. Describe only the strategy for doing so, not the code.
-4. What is “I” in ACID properties?
-5. Describe the virtual function in C++.
-6.A window of size k is sliding from left to right in an array of size n. Find out the maximum number in the window at each window position.
-7. What do you understand by clustering index?
-8. Describe your final year project in detail. How would you describe your role in the same?
-9. There is a program which inserts and deletes node in a sorted singly linked list. There is a bug in one of the modules. Give us a method of debugging it.
-10. What are the various techniques by which fault tolerance can be ensured in systems? (Different redundancy techniques)
-11. A pair of redundant systems is operating. Give us a method of ensuring that when one of them goes down, the other one will take over its operation.
-Suppose a 4-inch cube is painted on all the sides. If this piece is cut into smaller cubes of side 1 inch each, how many cubes will be left unpainted at all?
-12. Devise a program to check whether a binary tree is BST or not.
-13. Supposing that two of the nodes of a Binary Search Tree (BST) are interchanged, give us a method to fix (or correct) this BST.
-14. Out of given choices, pick out the Super Key from the lot.
-15. Questions based on function pointers and its usage.
-16. Devise an algorithm to check if there is a loop in a doubly linked list.
-17. Considering GRANT is used to grant privileges to perform the queries, specify the command which is used to remove these permissions.
-18. Write a program to delete a node, given only a pointer to the node in a circular linked list.
-Questions on call back functions.
-19. How would you define HADOOP? Describe the underlying principle of HADOOP and illustrate some of its features like Map Reduce?
-20. Describe some salient features of the cloud?
-21. Write a program to return a stream of bytes from a function.
-22. What do you understand by the term cloud computing?
-23. Describe the difference between a Public and Private cloud.
-24. Write a code to reverse a single linked list.
-
-
-Operating System
+### Operating System
 
 1. What is mutex?
 2. Difference between mutex and semaphores.
@@ -137,7 +107,37 @@ Operating System
 ### OOPS
 
 1. Implement Runtime Polymorphism with Multilevel Inheritance
-2. 
+
+
+
+#### MISC
+
+1. Tell me the difference between stack and heap memory.
+2. Describe a few deadlock avoidance schemes.
+3. Implement the malloc() and free() operations. Describe only the strategy for doing so, not the code.
+4. What is “I” in ACID properties?
+5. Describe the virtual function in C++.
+6.A window of size k is sliding from left to right in an array of size n. Find out the maximum number in the window at each window position.
+7. What do you understand by clustering index?
+8. Describe your final year project in detail. How would you describe your role in the same?
+9. There is a program which inserts and deletes node in a sorted singly linked list. There is a bug in one of the modules. Give us a method of debugging it.
+10. What are the various techniques by which fault tolerance can be ensured in systems? (Different redundancy techniques)
+11. A pair of redundant systems is operating. Give us a method of ensuring that when one of them goes down, the other one will take over its operation.
+Suppose a 4-inch cube is painted on all the sides. If this piece is cut into smaller cubes of side 1 inch each, how many cubes will be left unpainted at all?
+12. Devise a program to check whether a binary tree is BST or not.
+13. Supposing that two of the nodes of a Binary Search Tree (BST) are interchanged, give us a method to fix (or correct) this BST.
+14. Out of given choices, pick out the Super Key from the lot.
+15. Questions based on function pointers and its usage.
+16. Devise an algorithm to check if there is a loop in a doubly linked list.
+17. Considering GRANT is used to grant privileges to perform the queries, specify the command which is used to remove these permissions.
+18. Write a program to delete a node, given only a pointer to the node in a circular linked list.
+Questions on call back functions.
+19. How would you define HADOOP? Describe the underlying principle of HADOOP and illustrate some of its features like Map Reduce?
+20. Describe some salient features of the cloud?
+21. Write a program to return a stream of bytes from a function.
+22. What do you understand by the term cloud computing?
+23. Describe the difference between a Public and Private cloud.
+24. Write a code to reverse a single linked list.
 
 ### Some behavioral questions were asked, like
 
