@@ -75,9 +75,13 @@ Your task is to find the minimum number of fountains that have to be activated s
 53. Set Bits
 54. Find Prime numbers in a range
 55. Subsequence matching
+56. Lowest Common Ancestor in a Binary Search Tree.
+57. Sorted Linked List to Balanced BST
+58. Function to check if a singly linked list is palindrome
+59. Clone a linked list with next and random pointer
 
 
-### Operating System
+### Operating System & C
 
 1. What is mutex?
 2. Difference between mutex and semaphores.
@@ -92,7 +96,14 @@ Your task is to find the minimum number of fountains that have to be activated s
 11. How will you handle 2 thread working on same MAP.
 12. Questions on Storage classes in C.
 13. What is a program, task and threads
-14. 
+14. what is priority inversion and priority inheritance.(Explained in detail by giving examples)
+15. Asked me to explain C memory map, the interviewer gave a program and made me point out which variable goes to which part of memory.(Explained him correctly).
+16. Asked me what are the different intermediate files while compiling and running a C program.
+17. WAP to find whether a machine is little endian or big endian.(Explained him my approach, but he stopped me while I was trying to code it)
+18. Priority Inversion and ways to tackle it
+19. To explain race condition, deadlock, critical section problem with examples
+20. Design the memory layout of a C program that he wrote
+21. 
 
 ### Random
 
@@ -107,6 +118,9 @@ Your task is to find the minimum number of fountains that have to be activated s
 ### OOPS
 
 1. Implement Runtime Polymorphism with Multilevel Inheritance
+2. Virtual functions
+3. functions overloading, overriding.
+
 
 
 
@@ -150,4 +164,10 @@ Questions on call back functions.
 6. Logical or choice-based questions: You have a cake. Describe a method to divide it into eight pieces using only three lines.
 7. How do you define your goals in life? Do you make plans and strategies for the future or grab opportunities as they come?
 8. Would you be interested in changing your domain? If yes, why?
+9. Asked me about my biggest fear of my life.
+10. Tell me something about yourself.
+11. what makes you different from other candidates.
+12. strengths and weakness.
+13. biggest challenge faced till now.
+14. Why do you want to join Qualcomm.
 
