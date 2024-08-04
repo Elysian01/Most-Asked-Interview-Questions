@@ -7,6 +7,25 @@ Contains a list of most asked interview questions
 
 https://www.geeksforgeeks.org/qualcomm-interview-experience-off-campus-2021/
 
+https://www.geeksforgeeks.org/qualcomm-interview-experience-pool-campus-drive/
+
+
+
+### Aptitude
+
+Aptitude Section(20 MCQ Ques/30min with negative marking)
+
+Questions in this section are from the following topics:
+
+1. Work and wages
+2. Seating arrangement
+3. Profit and Loss
+4. Percentage
+5. Time and Speed
+6. Data Interpretation
+7. Ration and Proportion
+8. Coding Decoding
+
 ### Problems
 
 1. https://leetcode.com/problems/single-number/
@@ -79,6 +98,33 @@ Your task is to find the minimum number of fountains that have to be activated s
 57. Sorted Linked List to Balanced BST
 58. Function to check if a singly linked list is palindrome
 59. Clone a linked list with next and random pointer
+60. Given 2 strings find number of occurrences of one in another.
+61. Given a number write a macro to set/unset a bit at a particular position k.
+62. I have defined 2 global variables, one is initialized and another is uninitialized, in which segments would they be stored?
+63. Write your own memcpy function handling all the corner cases.
+64. Switch the values in two variables without using a third variable.
+65. https://www.geeksforgeeks.org/extract-k-bits-given-position-numbe
+66.  Given a value, delete all nodes from a linked list having that value.
+67.  N meetings in a room.https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/
+68.  Reverse a stack without using extra space.
+69.  Construct a tree from pre-order and in-order traversal.
+70.  Given an array which has numbers from 1 to n. There are 2 numbers replaced with 0. Find both numbers in O(n) time and O(1) space.
+71.  BT LCA
+72.  sum of nodes BT
+73.  delete a node in  BT
+
+
+### Important
+
+1. What happened when you enter a URL on browser. Explain all in detail.  https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+2. What is little Endian and Big Endian. How to check for it ? https://www.geeksforgeeks.org/little-and-big-endian-mystery/
+3. Difference between repeater, bridge, hub and router ? https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/
+4. Write a program to find it IP Address is valid or not
+5. Examples of internal and external fragmentation.
+6. Write a program to implement memcpy() on your own.
+7. Write code snippet for function pointers.
+8. How to differentiate between shared and private variables in thread in multithreaded environment?
+9. Basic server client architecture in TCP.
 
 
 ### Operating System & C
@@ -103,7 +149,35 @@ Your task is to find the minimum number of fountains that have to be activated s
 18. Priority Inversion and ways to tackle it
 19. To explain race condition, deadlock, critical section problem with examples
 20. Design the memory layout of a C program that he wrote
-21. 
+21. What is the use of pure virtual functions in c++.
+22. What is static and dynamic linking. How does a compiler know if a function belongs to a statically linked source or a dynamically linked source.
+23. What is a volatile/non-volatile memory.
+24. What is RAM/ROM.
+25. Structures and unions, the concept of padding in structures.
+26. How memory is allocated using calloc and malloc functions.
+27. How is free keyword different from delete.
+28. How does free() know the size of memory to be deallocated? https://www.geeksforgeeks.org/g-fact-88/
+29. How does a process look like in memory, the difference between global variables and static variables?
+30. Different scopes of variables and to explain when each of them is used and why, when and how do we use the extern keyword.
+31. What is a void pointer and how do we use it.
+32. Threading concept and how stack behaves in multi-threading environment and few pThread concepts.
+33. Page fault and steps followed to handle it.
+34. How to check if a given number is a power of 2, only using bitwise operators.
+35. Different System calls and why do we use them.https://www.geeksforgeeks.org/operating-system-introduction-system-call/
+36. Difference between Kernel and Operating System.
+37. Different phases of Compiler and in-detail explanation of each of the phases.
+38. How compiler does intermediate code optimization?
+39. What are Static and Dynamic Libraries?https://www.geeksforgeeks.org/static-vs-dynamic-libraries/
+40. Why do we use Cache Memory?
+41. What is Cache Coherence Protocol and when do we use them.
+42. Difference between Scheduler and Dispatcher.
+43. What are the applications of Unions? and problem-related to Unions.
+44. Let us suppose there are multiple .c files and you want a function from a particular file can only be accessed in that c file only. (Ans- Use static keyword)
+45. What is Volatile keyword?
+46. A lot of questions from IPC, Cache, Paging.
+47. https://www.geeksforgeeks.org/inline-functions-cpp/
+48. 
+
 
 ### Random
 
